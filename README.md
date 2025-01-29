@@ -2,7 +2,7 @@
 
 A modern, feature-rich programming blog built with Next.js 13+ (App Router), TypeScript, and Tailwind CSS. This blog includes features like markdown content management, syntax highlighting, search functionality, and a modern profile page.
 
-![Blog Preview](public/placeholder.svg)
+![Blog Preview](public/blog-post.png)
 
 ## Features
 
